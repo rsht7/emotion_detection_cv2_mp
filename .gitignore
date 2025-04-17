@@ -4,4 +4,4 @@ data.txt
 model
 __pycache__/
 *.pyc
-
+.idea/
